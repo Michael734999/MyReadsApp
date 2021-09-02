@@ -4,5 +4,5 @@
 <ol>
 <li><h4>Run - npm install - in your terminal</h4></li>
 <li><h4>Then run npm start, to start your server</h4></li>
-</0l>
+</ol>
 <p>Enjoy!!!</p>
